@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1fa6912-b3bc-413d-9c8d-8e750181f5f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/accessories/Accessory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/accessories/GuitarStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/accessories/ValveOil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/behaviours/IPlay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/behaviours/ISell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/instruments/Clarinet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/instruments/Guitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/instruments/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/instruments/InstrumentType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/instruments/Piano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/instruments/Trumpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/item/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shop/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/instruments/TestGuitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/instruments/TestPiano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/shop/TestShop.java" afterDir="false" />
-    </list>
+    <list default="true" id="b1fa6912-b3bc-413d-9c8d-8e750181f5f1" name="Changes" comment="Added Class Diagram" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,6 +141,28 @@
       <option name="presentableId" value="Default" />
       <updated>1692441848316</updated>
     </task>
+    <task id="LOCAL-00001" summary="Completed MVP and extensions">
+      <option name="closed" value="true" />
+      <created>1692446476099</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692446476099</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Class Diagram">
+      <option name="closed" value="true" />
+      <created>1692446602066</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692446602066</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed MVP and extensions" />
+    <MESSAGE value="Added Class Diagram" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Class Diagram" />
   </component>
 </project>
